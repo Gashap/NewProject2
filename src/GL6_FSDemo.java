@@ -59,7 +59,7 @@ public class GL6_FSDemo {
         for (int i = 0; i < (fs.length * 2); i++){
             x = fs.get(i);
             if (x != -1) System.out.print(x + " ");
-            else System.out.println("Индекс " + i + " вне допустимого диапазона");
+            else System.out.print("\nИндекс " + i + " вне допустимого диапазона");
         }
     }
 }
