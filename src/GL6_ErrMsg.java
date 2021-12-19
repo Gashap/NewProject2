@@ -13,7 +13,7 @@ class ErrorMsg{
     }
 }
 
-public class ErrMsg {
+public class GL6_ErrMsg {
     public static void main(String[] args) {
         ErrorMsg errorMsg = new ErrorMsg();
 
