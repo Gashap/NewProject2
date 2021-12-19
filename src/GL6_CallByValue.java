@@ -8,7 +8,7 @@ class Test{
     }
 }
 
-public class CallByValue {
+public class GL6_CallByValue {
     public static void main(String[] args) {
         Test ob = new Test();
 
